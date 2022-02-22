@@ -1,12 +1,14 @@
-#Web Scraper
+# Web Scraper
 
-##This is a JavaScript project
+## This is a JavaScript project
 
-##Using:
+## Using:
+
 NodeJS
 ExpressJS
 
-##NPM packages:
+## NPM packages:
+
 axios
 cheerio
 
